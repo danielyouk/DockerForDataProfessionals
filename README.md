@@ -2,6 +2,9 @@
 ![Course Image](./Docker.jpeg)
 Welcome to our course on leveraging Docker for DevOps and Data Science, particularly focusing on infrastructure and machine learning platforms. This course is designed for beginners and includes hands-on practices with Docker to create a cloud-based deep learning analysis environment.
 
+## Course Introduction
+- [Inflearn](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EB%AC%B8%EA%B0%80-%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%EB%8F%84%EC%BB%A4)
+
 ## What You Will Learn
 
 - **Docker Environment Setup**: Learn how to set up a data analysis environment similar to Kaggle using Docker.
@@ -15,7 +18,8 @@ Welcome to our course on leveraging Docker for DevOps and Data Science, particul
 - **Practical Docker Projects**: Focus on hands-on Docker projects to synchronize local and Azure cloud environments.
 - **Performance Differences**: Observe noticeable performance differences between cloud and local setups.
 - **Spot Discount**: Learn how to utilize cloud resources at a fraction of the cost using spot instances.
-- **Dynamic Links**: Use dynamic linking to quickly access course materials and updates even after the course ends.
+- [**Dynamic Links**:](./LectureNote.md) Use dynamic linking to quickly access course materials and updates even after the course ends.
+
 
 ## Tools and Hardware
 
